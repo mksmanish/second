@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let namelabel = UILabel = {
+    let namelabel :UILabel = {
         let label = UILabel()
         label.text = "manish"
         return label
