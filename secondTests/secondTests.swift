@@ -20,5 +20,8 @@ class secondTests: XCTestCase {
 
     func testExample() {
         XCTAssertEqual(3+2, 5)
+        XCTAssertEqual(3+1, 4)
+        XCTAssertEqual(3-2, 1)
+        
     }
 }
