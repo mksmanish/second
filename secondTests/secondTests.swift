@@ -23,6 +23,7 @@ class secondTests: XCTestCase {
         XCTAssertEqual(3+1, 4)
         XCTAssertEqual(3-2, 1)
         XCTAssertEqual(0-2, -2)
+        XCTAssertEqual(9-2, 7)
         
     }
 }
